@@ -1,4 +1,4 @@
-汕头台,#genre#
+📡汕头台,#genre#
 汕头综合,http://iptv.xxika.net:8188/udp/239.253.43.45:5146
 汕头综合,http://pr.19760929.xyz:9688/udp/239.253.43.45:5146
 汕头综合,http://hello.ejoydom.com:9999/udp/239.253.43.45:5146
@@ -13,7 +13,7 @@
 汕头生活,http://www.1328099.xyz:9688/udp/239.253.43.46:5146
 汕头生活,http://wmh.wmh.ink:6633/udp/239.253.43.46:5146
 
-央视频道,#genre#
+📺央视频道,#genre#
 CCTV1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
@@ -137,25 +137,9 @@ CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 
-☘️广东频道,#genre#
-广东卫视,http://119.123.177.183:8086/hls/44/index.m3u8
-深圳卫视,http://119.123.177.183:8086/hls/79/index.m3u8
-大湾区卫视,http://119.123.177.183:8086/hls/80/index.m3u8
-广东珠江,http://119.123.177.183:8086/hls/81/index.m3u8
-广东体育,http://119.123.177.183:8086/hls/82/index.m3u8
-广东新闻,http://119.123.177.183:8086/hls/83/index.m3u8
-广州综合,http://119.123.177.183:8086/hls/84/index.m3u8
-广州影视,http://119.123.177.183:8086/hls/85/index.m3u8
-广东卫视,http://223.95.198.3:8000/hls/22/index.m3u8
-深圳卫视,http://223.95.198.3:8000/hls/23/index.m3u8
-湖南卫视,http://223.95.198.3:8000/hls/25/index.m3u8
-浙江卫视,http://223.95.198.3:8000/hls/24/index.m3u8
-广东卫视,http://gdmmdx.sohu.blog:3388/hls/44/index.m3u8
-深圳卫视,http://gdmmdx.sohu.blog:3388/hls/79/index.m3u8
-佛山综合,http://119.123.177.183:8086/hls/90/index.m3u8
-东莞综合,http://119.123.177.183:8086/hls/91/index.m3u8
-惠州综合,http://119.123.177.183:8086/hls/92/index.m3u8
-汕头综合,http://119.123.177.183:8086/hls/93/index.m3u8
+🏆广东频道,#genre#
+
+
 
 卫视频道,#genre#
 安徽卫视,http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
@@ -186,6 +170,9 @@ CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8
 甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
+广东卫视,http://119.123.177.183:8086/hls/44/index.m3u8
+广东卫视,http://gdmmdx.sohu.blog:3388/hls/44/index.m3u8
+广东卫视,http://223.95.198.3:8000/hls/22/index.m3u8
 广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
 广东卫视,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://183.11.239.36:808/hls/80/index.m3u8
@@ -214,6 +201,7 @@ CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8
 河北卫视,http://183.11.239.36:808/hls/54/index.m3u8
 河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
+湖南卫视,http://223.95.198.3:8000/hls/25/index.m3u8
 河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
 河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8
 河南卫视,http://183.11.239.36:808/hls/51/index.m3u8
@@ -275,8 +263,11 @@ CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+深圳卫视,http://223.95.198.3:8000/hls/23/index.m3u8
 深圳卫视,http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
+深圳卫视,http://119.123.177.183:8086/hls/79/index.m3u8
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+深圳卫视,http://gdmmdx.sohu.blog:3388/hls/79/index.m3u8
 深圳卫视,http://124.116.183.146:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://183.11.239.36:808/hls/45/index.m3u8
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
@@ -306,6 +297,7 @@ CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 云南卫视,http://111.61.236.247:9081/hls/32/index.m3u8
 云南卫视,http://cssbyd.imwork.net:8082/hls/36/index.m3u8
 云南卫视,http://183.11.239.36:808/hls/52/index.m3u8
+浙江卫视,http://223.95.198.3:8000/hls/24/index.m3u8
 浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
